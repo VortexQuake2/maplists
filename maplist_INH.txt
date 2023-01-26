@@ -3,7 +3,6 @@ spambox3_vrx
 ky0inv1d
 ky0inv2
 siege
-moeshinv1_alpha
 moeshinv2
 xcinv1b3
 zpinv2
@@ -12,7 +11,6 @@ disaster_inv
 svrxinvm2
 vrxpvm2
 omg_invasion!
-pyramid_inv2
 mazon_sh1va
 bitter_inv2
 vrx_fightarea3
@@ -20,3 +18,5 @@ vrx_fightarea22
 vrxinv1_beta
 capillainv
 makoinv
+forte_remake
+dx4inv1_b
