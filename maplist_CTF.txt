@@ -5,7 +5,6 @@ q2ctf4
 q2ctf5
 marics_ctf4
 marics_ctf12
-marics_ctf17
 marics_ctf21
 rtctf1
 0fear
