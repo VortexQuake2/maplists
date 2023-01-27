@@ -4,7 +4,7 @@ ky0inv1d
 ky0inv2
 siege
 moeshinv2
-zpinv2
+zpinv3
 disaster_inv
 svrxinvm2
 vrxpvm2
